@@ -17,11 +17,11 @@ Tired of throwing away food from kitchen? Got too many items unused? This is a c
 ### ⚙️ **To Make It Yours:**
 
 1. ✏️ **Edit `.env` file** with the following APIs:
-   - Twilio
-   - Groq
-   - Edamam
-   - Open Food Facts
-   - Ngrok (optional for sharing)
+   - Twilio as TWILIO_AUTH_TOKEN and TWILIO_ACCOUNT_SID
+   - Groq as GROQ_API_KEY
+   - Edamam as APP_ID and EDAMAM_API_KEY
+   - Open Food Facts 'https://world.openfoodfacts.org/api/v2/product/{}.json'
+   - Ngrok (optional for sharing) as NGROK_API_KEY
 
 2. 🛒 **Buy a Barcode Reader**
 
@@ -32,7 +32,7 @@ Tired of throwing away food from kitchen? Got too many items unused? This is a c
 
 ### 🚀 **Getting Started:**
 
-1. 📂 **Create `food_db.json` file**
+1. 📂 **Create `food_db.json`make sure inside has the form {"food_db": []} **
 2. 🛠️ **Modify Path Folders** to fit your system
 3. ⚙️ **Run Embeddings File**:
    - **CPU**: ⏳ Takes about 2 hours.
