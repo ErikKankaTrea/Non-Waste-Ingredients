@@ -7,7 +7,7 @@ Powered by AI system - You will be able to get help with the stack of a RAG syst
 # 🍽️ **Kitchen Controller App** - **Stop Wasting Food!**
 
 ### 📜 **Description:**
-Tired of throwing away food from the kitchen? Got too many items unused? This is a cool controller app that lets you:
+Tired of throwing away food from kitchen? Got too many items unused? This is a cool controller app that lets you:
 - 📸 Register your shopping using your phone camera or barcode reader.
 - 🔄 Keep track of your food items.
 - 👨‍🍳 Ask the Chef Assistant to cook a daily dish with your oldest items.
