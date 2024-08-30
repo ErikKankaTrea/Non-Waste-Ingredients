@@ -3,6 +3,7 @@ IU in streamlit to register and have control of your shopping - each time you sh
 
 Powered by AI system - You will be able to get help with the stack of a RAG system + reranking + LLM to make a daily and delicious dish with your oldest ingredients.
 
+FOLLOW ALSO DE IMAGES OF THE APP AS A GUIDE
 
 # 🍽️ **Kitchen Controller App** - **Stop Wasting Food!**
 
