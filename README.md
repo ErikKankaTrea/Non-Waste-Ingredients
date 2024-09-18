@@ -1,5 +1,7 @@
-# Non-Waste-Ingredients
+# Non-Waste-Ingredients - Prepare a nice dish with your older ingredients!
 IU in streamlit to register and have control of your shopping - each time you shop register it through a barcoder reader or camera device
+
+[Buy Me A Coffee](https://www.buymeacoffee.com/erikmartinz)
 
 Powered by AI system - You will be able to get help with the stack of a RAG system + reranking + LLM to make a daily and delicious dish with your oldest ingredients.
 
@@ -57,3 +59,6 @@ Tired of throwing away food from kitchen? Got too many items unused? This is a c
 - 🍽️ **Batch Cooking Planner**:
    - Make a better planner to assist with batch cooking, focusing on using older products first to minimize waste.
    - Take into account the amount of ingredients. By now it registers the product but only grab carbs, proteins, fat, fiber per 100gr.
+
+
+[Buy Me A Coffee](https://www.buymeacoffee.com/erikmartinz)
