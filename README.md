@@ -1,11 +1,8 @@
 # Non-Waste-Ingredients - Prepare a nice dish with your older ingredients!
 IU in streamlit to register and have control of your shopping - each time you shop register it through a barcoder reader or camera device
 
-[Buy Me A Coffee](https://www.buymeacoffee.com/erikmartinz) 
-<div style="display: flex; justify-content: flex-end;">
-<img src="./QR.png" alt="Buy Me A Coffee QR Code" width="100" height="100">
-</div>
-
+[Buy Me A Coffee](https://www.buymeacoffee.com/erikmartinz)                                                       <img src="./QR.png" alt="Buy Me A Coffee QR Code" width="100" height="100">
+<
 
 Powered by AI system - You will be able to get help with the stack of a RAG system + reranking + LLM to make a daily and delicious dish with your oldest ingredients.
 
