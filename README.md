@@ -65,6 +65,7 @@ Tired of throwing away food from kitchen? Got too many items unused? This is a c
    - Refactor the code to make it more efficient, readable, and maintainable.
    - Consider using design patterns and best practices to improve code quality.
 
-
+<br>
+<br>
 
 [Buy Me A Coffee](https://www.buymeacoffee.com/erikmartinz)                                                       <img src="./QR.png" alt="Buy Me A Coffee QR Code" width="100" height="100">
