@@ -27,7 +27,7 @@ Tired of throwing away food from kitchen? Got too many items unused? This is a c
 
 3. 💾 **Install Requirements**:
    - `requirements.txt`
-   - fined tuned YOLOv10 find collab notebook ---> I have already trained 70 categories using roboflow for image labeling and YOLOv10 for fine tuning. `streamlit run main.py`
+   - fined tuned YOLOv10 find collab notebook ---> I have already trained 70 categories using roboflow for image labeling and YOLOv10 for fine tuning. `YOLOv10_pho.ipynb`
      You should train your own products here the list that its already trained: 
      ['olive', 'avocado', 'garlic', 'apricot', 'celery', 'aquarius', 'eggplant', 'bag of garlic', 'bag of potatoes', 'broccoli', 'zucchini', 'squid', 'carpaccio', 'onion', 'cherry', 'beer', 'star beer', 'sliced ​​mushroom', 'chorizo', 'couscous', 'croissant', 'escalivada', 'spinach', 'noodles', 'flan', 'strawberry', 'gazpacho', 'vegetables', 'egg', 'ham', 'green beans', 'kiwi', 'shrimp', 'lettuce', 'lemon', 'sausage', 'apple', 'peach', 'mint', 'orange', 'bread', 'potato', 'turkey', 'chicken breast', 'pear', 'parsley', 'red pepper', 'green pepper', 'pineapple', 'pistachio', 'pizza', 'banana', 'poke salmon', 'leek', 'cheese', 'sliced cheese', 'bunch of grapes', 'sausages', 'salmon', 'tomato sauce', 'watermelon', 'shushi', 'pork tenderloin', 'special K', 'surimi', 'beef', 'tomato', 'white wine', 'Greek yogurt', 'carrot']
 
