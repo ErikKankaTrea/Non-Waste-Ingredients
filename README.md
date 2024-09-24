@@ -35,7 +35,7 @@ Tired of throwing away food from kitchen? Got too many items unused? This is a c
 
 1. 📂 **Create `food_db.json`make sure inside has the form {"food_db": []} **
 2. 🛠️ **Modify Path Folders** to fit your system
-3. ⚙️ **Run Embeddings File**: `streamlit run main.py`
+3. ⚙️ **Run Embeddings File**: `extract_embeddings.py`
    - **CPU**: ⏳ Takes about 2 hours.
    - **GPU (A100)**: 🚀 Just 20 minutes in Google Colab.
 
