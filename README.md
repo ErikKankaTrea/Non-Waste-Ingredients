@@ -39,7 +39,7 @@ Tired of throwing away food from kitchen? Got too many items unused? This is a c
    - **CPU**: ⏳ Takes about 2 hours.
    - **GPU (A100)**: 🚀 Just 20 minutes in Google Colab.
 
-4. 📚 **Make a Sample of the Recipe Book**: `./food_retriever/utils/milvus_vector_db.py`
+4. 📚 **Make a Sample of the Recipe Book**: `milvus_vector_db.py`
    - 🍳 Process 25% of the recipes (around 2 hours) to insert into the Milvus vector database.
 
 5. 🖥️ **Run Streamlit**:
