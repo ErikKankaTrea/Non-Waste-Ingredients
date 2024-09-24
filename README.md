@@ -27,18 +27,19 @@ Tired of throwing away food from kitchen? Got too many items unused? This is a c
 
 3. 💾 **Install Requirements**:
    - `requirements.txt`
-   - fined tuned YOLOv10 find collab notebook ---> I have already trained 70 categories using roboflow for image labeling and YOLOv10 for fine tuning. You should train your own products here the list that its already trained: 
+   - fined tuned YOLOv10 find collab notebook ---> I have already trained 70 categories using roboflow for image labeling and YOLOv10 for fine tuning. `streamlit run main.py`
+     You should train your own products here the list that its already trained: 
      ['olive', 'avocado', 'garlic', 'apricot', 'celery', 'aquarius', 'eggplant', 'bag of garlic', 'bag of potatoes', 'broccoli', 'zucchini', 'squid', 'carpaccio', 'onion', 'cherry', 'beer', 'star beer', 'sliced ​​mushroom', 'chorizo', 'couscous', 'croissant', 'escalivada', 'spinach', 'noodles', 'flan', 'strawberry', 'gazpacho', 'vegetables', 'egg', 'ham', 'green beans', 'kiwi', 'shrimp', 'lettuce', 'lemon', 'sausage', 'apple', 'peach', 'mint', 'orange', 'bread', 'potato', 'turkey', 'chicken breast', 'pear', 'parsley', 'red pepper', 'green pepper', 'pineapple', 'pistachio', 'pizza', 'banana', 'poke salmon', 'leek', 'cheese', 'sliced cheese', 'bunch of grapes', 'sausages', 'salmon', 'tomato sauce', 'watermelon', 'shushi', 'pork tenderloin', 'special K', 'surimi', 'beef', 'tomato', 'white wine', 'Greek yogurt', 'carrot']
 
 ### 🚀 **Getting Started:**
 
 1. 📂 **Create `food_db.json`make sure inside has the form {"food_db": []} **
 2. 🛠️ **Modify Path Folders** to fit your system
-3. ⚙️ **Run Embeddings File**:
+3. ⚙️ **Run Embeddings File**: `streamlit run main.py`
    - **CPU**: ⏳ Takes about 2 hours.
    - **GPU (A100)**: 🚀 Just 20 minutes in Google Colab.
 
-4. 📚 **Make a Sample of the Recipe Book**:
+4. 📚 **Make a Sample of the Recipe Book**: `./food_retriever/utils/milvus_vector_db.py`
    - 🍳 Process 25% of the recipes (around 2 hours) to insert into the Milvus vector database.
 
 5. 🖥️ **Run Streamlit**:
