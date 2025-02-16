@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 53
+names: ['aguacate', 'ajo', 'apio', 'aquarius', 'bolsa de ajos', 'bolsa de patatas', 'carpaccio', 'cebolla', 'cereza', 'cerveza', 'cerveza estrella', 'consolador', 'couscous', 'croissant', 'escalivada', 'fideos', 'flan', 'fresa', 'gazpacho', 'hortalizas', 'huevo', 'jamon', 'judias verdes', 'kiwi', 'limon', 'manzana', 'melocoton', 'menta', 'pan', 'patata', 'pavo', 'pechuga de pollo', 'perejil', 'pimiento rojo', 'pimiento verde', 'pistacho', 'poke salmon', 'puerro', 'queso', 'queso de loncha', 'racimo uvas', 'salmon', 'salsa de tomate', 'sandia', 'shushi', 'solomillo decerdo', 'special K', 'surimi', 'tomate', 'tomate cherry', 'vino blanco', 'yogourt griego', 'zanahoria']
+
+roboflow:
+  workspace: roboerikflow
+  project: shoppingfood
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/roboerikflow/shoppingfood/dataset/2
