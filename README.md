@@ -1,7 +1,7 @@
 # Non-Waste-Ingredients ♻️ - Prepare a nice dish 🍽️ with your older ingredients! 🥦🍅🧅
 IU in streamlit to register and have control of your shopping - each time you shop register it through a barcoder reader or camera device
 
-Powered by AI system - You will be able to get help with the stack of a RAG system + reranking + LLM to make a daily and delicious dish with your oldest ingredients.
+Powered by AI system - You will be able to get help with the stack of a RAG reranked system empowered with an AI agentic workflow to make a daily and delicious dish with your oldest ingredients.
 
 FOLLOW ALSO DE IMAGES OF THE APP AS A GUIDE
 
